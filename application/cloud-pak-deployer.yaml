@@ -7,7 +7,7 @@ spec:
   project: default
   source:
     repoURL: https://github.com/Howard-Luo/cp4d-basic.git
-    targetRevision: HEAD
+    targetRevision: 415
     path: overlays/dev
   destination:
     namespace: cloud-pak-deployer
